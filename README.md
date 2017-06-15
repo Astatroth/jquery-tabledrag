@@ -19,7 +19,7 @@ It's designed to be used with forms. Order and hierarchy information are stored 
 Dependencies
 ------------
 
-Currently requires the [jQuery Cookie](https://github.com/carhartl/jquery-cookie) plugin (as does the Drupal version).
+no longer requires the [jQuery Cookie](https://github.com/carhartl/jquery-cookie) plugin.
 
 
 Demo
@@ -47,10 +47,6 @@ The following options can be passed as a hash to the `tableDrag()` function. Com
 
   // The <tr> class indicating that it's draggable.
   draggableClass: 'draggable',
-
-  // The path for the cookie flag. A link is displayed which allows users
-  // to switch between the drag and drop interface or the "plain" interface.
-  cookiePath: '/',
 
   // Specific options.
 
