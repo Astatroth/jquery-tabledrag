@@ -19,7 +19,7 @@ It's designed to be used with forms. Order and hierarchy information are stored 
 Dependencies
 ------------
 
-no longer requires the [jQuery Cookie](https://github.com/carhartl/jquery-cookie) plugin.
+No longer requires the [jQuery Cookie](https://github.com/carhartl/jquery-cookie) plugin.
 
 
 Demo
